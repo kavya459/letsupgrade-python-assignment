@@ -1,0 +1,37 @@
+Assignment day 2
+block slash : used to print paragraph.
+triple quoth: used to print sms pattern etc.
+string inside a quoth: print string.
+escape inside a quote: \t: for space
+                       \n : for new line etc
+python variables and assignments
+variables means linking of the data to a names.
+rules to define a variable 
+varible name is not a keyword.
+it doesn't start numbers.
+
+Arithmetic operators 
++: for addition
+- : for subtraction
+/: for division
+* : for multiplication
+%: for remainder
+//: for lowest integer
+comparison operators
+==, <,>, <=,>=,!=
+Assignment operators
+= , +=, -= , /= etc
+bit wise operators
+|,&,~,^,<<,>>
+logical operators
+and ,or ,not.
+membership operators: it check membership of varible
+in,not in 
+identity operators:it is useed to memory locations.
+is , is not.
+Operators precedence: it shows precedence of operators.
+
+
+
+
+                       
