@@ -1,0 +1,12 @@
+1) what is python? what are the way to install python in your PC?
+Ans:python is an interpreted ,high level ,general -purpose programming language created by guido vas rossum and first released in 1991, python's design philosophy emphasizes code readability with its notable use of significant whitespace. 
+way to instal python..
+1.Installing python from official websites
+2.Through Anacod afficial website it is a open source software.
+
+2) What are the code environment?types?
+ans:A code environment is a standalone and self- contained environment to run python code.Each code environment has its own set of packages .
+types
+1.text editor
+2.Full IDE's
+3.note book environment
